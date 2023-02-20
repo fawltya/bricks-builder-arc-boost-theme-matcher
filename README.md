@@ -9,6 +9,7 @@ An Arc boost that matches your Bricks Builder interface with your Arc theme
 
 ## Usage
 The fab [Arc Browser](https://arc.net/)
+
 Also fab [Bricks Builder](https://bricksbuilder.io/)
 
 ## License
