@@ -8,8 +8,7 @@ An Arc boost that matches your Bricks Builder interface with your Arc theme
 2. Add a new boost in your Arc browser and copy the code in there.
 
 ## Usage
-The fab [Arc Browser](https://arc.net/)
-
+The fab [Arc Browser](https://arc.net/) </br>
 Also fab [Bricks Builder](https://bricksbuilder.io/)
 
 ## License
