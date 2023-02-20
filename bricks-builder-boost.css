@@ -1,0 +1,20 @@
+// Boost by https://github.com/fawltya
+
+:root {
+  --builder-bg: var(--arc-palette-backgroundExtra) !important;
+  --builder-bg-2: var(--arc-palette-background) !important;
+  --builder-bg-3: var(--arc-palette-foregroundTertiary) !important;
+  --builder-bg-accent: var(--arc-palette-foregroundSecondary) !important;
+
+  --builder-color: var(--arc-palette-foregroundPrimary) !important;
+  --builder-color-description: var(--arc-palette-title) !important;
+  --builder-color-accent: var(--arc-palette-foregroundSecondary) !important;
+  --builder-color-accent-inverse: var(--arc-palette-backgroundExtra) !important;
+
+  --builder-color-knob: var(--arc-palette-subtitle) !important;
+  --builder-border-color: var(--arc-palette-cutoutColor) !important;
+  --builder-placeholder-opacity: .33;
+
+  --bricks-tooltip-bg:   var(--arc-palette-foregroundPrimary) !important;
+  --bricks-tooltip-text: var(--arc-palette-background) !important;
+}
